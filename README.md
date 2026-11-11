@@ -1,98 +1,90 @@
-# \# Cloud Security Foundations
 
-# 
+# Cloud Security Foundations
 
-# A hands-on learning repository documenting my journey toward becoming a Cloud Security Engineer and, eventually, a Cloud Security Architect.
+A hands-on learning repository documenting my progress toward becoming a Cloud Security Engineer and, eventually, a Cloud Security Architect.
 
-# 
+## About This Repository
 
-# \## Objectives
+This repository documents my technical learning, practical exercises, labs, and projects in cloud computing and cybersecurity.
 
-# 
+My goal is to develop real technical skills through consistent practice, troubleshooting, and project-based learning.
 
-# Develop practical technical skills in:
+## Learning Areas
 
-# 
+### Linux
+- Command-line fundamentals
+- File systems and permissions
+- Users, groups, and processes
+- System administration
+- Linux networking and SSH
 
-# \- \*\*Linux:\*\* Command-line operations, system administration, permissions, processes, and networking.
+### Python
+- Programming fundamentals
+- Functions, loops, and data structures
+- File handling and JSON
+- APIs and automation
+- Security-related scripting
 
-# \- \*\*Python:\*\* Programming fundamentals, automation, APIs, and security-related scripting.
+### AWS Cloud
+- IAM and access management
+- EC2 and S3
+- VPCs, subnets, and routing
+- Security Groups and Network ACLs
+- CloudTrail and CloudWatch
+- Cloud security best practices
 
-# \- \*\*AWS:\*\* Cloud infrastructure, IAM, EC2, S3, VPC networking, logging, and security.
+### Networking
+- TCP/IP and subnetting
+- DNS and DHCP
+- Routing and NAT
+- HTTP/HTTPS
+- Firewalls and network troubleshooting
 
-# \- \*\*Networking:\*\* TCP/IP, routing, DNS, HTTP/HTTPS, firewalls, and troubleshooting.
+### Cybersecurity
+- Security fundamentals
+- Least privilege
+- Identity and access management
+- Encryption
+- Security monitoring
+- Cloud security architecture
 
-# \- \*\*Cybersecurity:\*\* Least privilege, access control, encryption, monitoring, and secure infrastructure design.
+## Repository Structure
 
-# 
+```text
+cloud-security-foundations/
+├── aws/
+├── linux/
+├── networking/
+├── projects/
+├── python/
+└── README.md
+```
 
-# \## Repository Structure
+## Learning Roadmap
 
-# 
+- [ ] Phase 1: Linux, Python, AWS, and networking fundamentals
+- [ ] Phase 2: AWS Cloud Engineering
+- [ ] Phase 3: Cloud Security fundamentals
+- [ ] Phase 4: Terraform and Infrastructure as Code
+- [ ] Phase 5: Advanced cloud security projects
 
-# | Directory | Contents |
+## Projects
 
-# |---|---|
+Projects will be added as I progress through my learning roadmap.
 
-# | `linux/` | Linux commands, exercises, and administration labs |
+Each project will include:
+- Project objectives
+- Technical implementation
+- Architecture or design decisions
+- Security considerations
+- Challenges and lessons learned
 
-# | `python/` | Python exercises and automation scripts |
+## Learning Philosophy
 
-# | `networking/` | Networking notes, diagrams, and troubleshooting |
+**Understand the concepts. Build practical projects. Troubleshoot problems. Document progress.**
 
-# | `aws/` | AWS learning labs and architecture documentation |
+The objective is not simply to complete courses or collect certifications, but to develop the technical skills required to design, build, and secure cloud infrastructure.
 
-# | `projects/` | Projects combining multiple technical skills |
+---
 
-# 
-
-# \## Learning Approach
-
-# 
-
-# 1\. Understand the underlying concepts.
-
-# 2\. Apply them through practical exercises and labs.
-
-# 3\. Troubleshoot problems independently.
-
-# 4\. Document technical decisions and lessons learned.
-
-# 5\. Progress toward more complex cloud security projects.
-
-# 
-
-# \## Current Focus
-
-# 
-
-# \*\*Phase 1: Cloud Security Foundations\*\*
-
-# 
-
-# Building foundational knowledge of Linux, Python, AWS, networking, Git, and cybersecurity.
-
-# 
-
-# \## Future Goals
-
-# 
-
-# \- Deploy secure AWS infrastructure.
-
-# \- Develop Python automation tools.
-
-# \- Implement cloud monitoring and security controls.
-
-# \- Learn Infrastructure as Code with Terraform.
-
-# \- Build a portfolio of documented cloud security projects.
-
-# 
-
-# \---
-
-# 
-
-# \*This repository documents an ongoing learning process. Projects and documentation will evolve as my technical skills develop.\*
-
+*This repository is a work in progress and will evolve as my technical knowledge develops.*
